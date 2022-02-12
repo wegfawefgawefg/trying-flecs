@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/home/vega/Coding/Game/trying-flecs/build",
+    "command": "cc -Imain@exe -I. -I.. -I/usr/include/SDL2 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -g -D_REENTRANT -MD -MQ 'main@exe/main.c.o' -MF 'main@exe/main.c.o.d' -o 'main@exe/main.c.o' -c ../main.c",
+    "file": "../main.c",
+    "output": "main@exe/main.c.o"
+  },
+  {
+    "directory": "/home/vega/Coding/Game/trying-flecs/build",
+    "command": "cc -Imain@exe -I. -I.. -I/usr/include/SDL2 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -g -D_REENTRANT -MD -MQ 'main@exe/flecs.c.o' -MF 'main@exe/flecs.c.o.d' -o 'main@exe/flecs.c.o' -c ../flecs.c",
+    "file": "../flecs.c",
+    "output": "main@exe/flecs.c.o"
+  }
+]
